@@ -1,0 +1,8 @@
+openpyxl            # Работа с Excel-файлами (.xlsx)
+PyMuPDF             # Работа с PDF через fitz
+pandas              # Работа с таблицами, CSV и Excel
+PyPDF2              # Чтение PDF-документов
+rarfile             # Работа с RAR-архивами (нужен unrar/bsdtar)
+py7zr               # Работа с 7z-архивами
+pywin32             # Доступ к COM-объектам Windows (например, Excel)
+tqdm                # Прогресс-бары в консоли
