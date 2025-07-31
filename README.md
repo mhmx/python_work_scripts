@@ -1,1 +1,8 @@
-# python_work_scripts
+# Скрипты на Python для работы с файлами
+
+* **get_filepaths.py** - получить в xlsx пути и имена ко всем файлам, указанным в папке
+* **files_count_pages.py** - посчитать количество листов в pdf, excel и количество файлов в архивах
+* **pdf_merge_1st_pages.py** - сшить вместе только первые страницы указанных pdf
+
+### Установи все необходимые библиотеки:
+    pip install -r requirements.txt
